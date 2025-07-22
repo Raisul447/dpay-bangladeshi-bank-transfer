@@ -3,7 +3,7 @@
 
 **A simple and reliable WooCommerce payment gateway plugin that enables Bangladeshi customers to pay via manual bank transfers using the DPay system.**
 
-![DPay Logo](./assets/dpay-logo.png)
+![DPay Logo](.dpay-bangladeshi-bank-transfer/assets/dpay-logo.png)
 
 ---
 
@@ -36,7 +36,8 @@ You can input and display information for any bank in Bangladesh. Some popular b
 - Bank Asia Limited  
 - Eastern Bank Limited  
 - City Bank Limited  
-- Standard Chartered Bangladesh  
+- Standard Chartered Bangladesh
+- Many more...
 
 ---
 
@@ -53,16 +54,16 @@ You can input and display information for any bank in Bangladesh. Some popular b
 ## 📸 Screenshots
 
 1. Installed plugin in WordPress admin  
-   ![Installed Plugin](./assets/screenshot-1.png)
+   ![Installed Plugin](.dpay-bangladeshi-bank-transfer/assets/screenshot-1.png)
 
 2. DPay settings under WooCommerce Payments tab  
-   ![WooCommerce Settings](./assets/screenshot-2.png)
+   ![WooCommerce Settings](.dpay-bangladeshi-bank-transfer/assets/screenshot-2.png)
 
 3. Admin configuration for bank details  
-   ![Configuration Page](./assets/screenshot-3.png)
+   ![Configuration Page](.dpay-bangladeshi-bank-transfer/assets/screenshot-3.png)
 
 4. Bank transfer option shown at checkout  
-   ![Checkout Page](./assets/screenshot-4.png)
+   ![Checkout Page](.dpay-bangladeshi-bank-transfer/assets/screenshot-4.png)
 
 ---
 
