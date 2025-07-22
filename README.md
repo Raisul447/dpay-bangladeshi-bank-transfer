@@ -3,7 +3,7 @@
 
 **A simple and reliable WooCommerce payment gateway plugin that enables Bangladeshi customers to pay via manual bank transfers using the DPay system.**
 
-![DPay Logo](assets/dpay-logo.png)
+![DPay Logo](dpay-bangladeshi-bank-transfer/assets/dpay-logo.png)
 
 ---
 
