@@ -95,7 +95,7 @@ Absolutely. Since it doesn’t rely on external APIs and follows WooCommerce sta
 ## 👨‍💻 Author
 
 **Raisul Islam**  
-[🌐 shagor.dev](https://shagor.dev) | [GitHub: Raisul447](https://github.com/Raisul447)
+deploy@raisul.dev | https://raisul.dev/ | [GitHub: Raisul447](https://github.com/Raisul447)
 
 If you find this plugin useful, please consider starring ⭐ the repository and sharing it with others in the Bangladeshi WooCommerce community.
 
